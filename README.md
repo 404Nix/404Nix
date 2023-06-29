@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @404Nix
+- 👋 Hi, I’m Nikhil
 - 🌱 I’m currently learning python, c++
 <!---
 404Nix/404Nix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
