@@ -16,9 +16,11 @@ src="https://camo.githubusercontent.com/91c7a43399e63e18b0bda809b2ac203d159b06b0
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nikhil-kanojia-2a3238239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nikhil Kanojia" height="30" width="40" /></a>
-<a href=" " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Nikhil Kanojia" height="30" width="40" /></a>
-<a href=" " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Nikhil Kanojia" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/nikhil-kanojia-2a3238239?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Nikhil Kanojia" height="30" width="40" /></a>
+ 
+<a href="https://www.instagram.com/zenitsuthesimp_/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Nikhil Kanojia" height="30" width="40" /></a>
+
+<a href="https://leetcode.com/u/nix404/" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/LeetCode_Logo_1.png" alt="Nikhil Kanojia" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
