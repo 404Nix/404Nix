@@ -33,6 +33,3 @@ src="https://camo.githubusercontent.com/91c7a43399e63e18b0bda809b2ac203d159b06b0
 </tr>
 </table>
 <br />
-<p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=404Nix&" alt="Nikhil Kanojia" />
-</p>
