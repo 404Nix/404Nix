@@ -1,4 +1,4 @@
-# 🚀 Hey, I'm Nix (404Nix)
+# 🚀 Hey, I'm Nix (Nikhil)
 
 💻 Full Stack Developer | MERN Stack Enthusiast  
 🔥 Building scalable apps & clean UI experiences  
