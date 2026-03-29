@@ -1,65 +1,92 @@
-<h1 align="center">🚀 Hey, I'm Nix (Nikhil)</h1>
+<h1 align="center">🚀 Nikhil Kanojia (Nix)</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Real-World+Projects;Always+Learning+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN);Building+Scalable+Real-World+Apps;React+%2B+Node+%2B+MongoDB;System+Design+%7C+Deployment+Learner" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-FullStack-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Stack-MERN-green?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Learning-System%20Design-orange?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Status-Building%20Projects-success?style=for-the-badge"/>
 </p>
 
 ---
 
 <h2>🧠 About Me</h2>
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 <ul>
-  <li>👨‍💻 Full Stack Developer (MERN)</li>
-  <li>⚡ Building real-world scalable applications</li>
-  <li>🎯 Learning system design & deployment</li>
-  <li>🎨 Love modern UI + smooth animations</li>
-  <li>🐧 Exploring Linux & dev environments</li>
+  <li>👨‍💻 Full Stack Developer specializing in <b>MERN Stack</b></li>
+  <li>⚡ Building <b>real-world scalable applications</b></li>
+  <li>🧠 Strong in <b>DSA (200+ problems solved)</b></li>
+  <li>🎯 Currently learning <b>System Design & Deployment</b></li>
+  <li>🎨 Passionate about <b>modern UI + smooth animations</b></li>
+  <li>🐧 Linux enthusiast & dev environment explorer</li>
 </ul>
 
-<br/><br/>
+<br/>
 
 ---
 
 <h2>🚀 Tech Stack</h2>
 
-<h3>💻 Frontend</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
-</p>
-
-<h3>🧠 Backend</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-<h3>🗄️ Database</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
-</p>
-
-<h3>⚙️ Tools</h3>
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux,nodejs,express,mongodb,mysql,git,github,vscode,postman,linux" />
 </p>
 
 ---
 
-<h2>📌 Featured Project</h2>
+<h2>💼 Experience</h2>
 
-<h3>💰 Expense Tracker App</h3>
+<b>Backend Developer Intern @ Littlewise</b> (Jan 2025 – Mar 2025)
+
+<ul>
+  <li>🔐 Built secure APIs with Node.js & Express</li>
+  <li>⚡ Integrated authentication & protected routes</li>
+  <li>📦 Designed scalable backend architecture</li>
+  <li>🤝 Collaborated with frontend teams for seamless integration</li>
+</ul>
+
+---
+
+<h2>📌 Featured Projects</h2>
+
+<h3>💰 Expense Tracker</h3>
 
 <p>
   🔗 <a href="https://github.com/404Nix/ExpenseTracker">View Project</a>
 </p>
 
 <ul>
-  <li>📊 Track income & expenses</li>
-  <li>🔐 Secure authentication system</li>
-  <li>📅 Date-based filtering</li>
-  <li>⚡ MongoDB aggregation</li>
-  <li>🎨 Clean responsive UI</li>
+  <li>📊 Advanced analytics using MongoDB aggregation</li>
+  <li>🔐 JWT Authentication system</li>
+  <li>⚡ Redux Toolkit for state management</li>
+  <li>📅 Smart filtering + budget alerts (80% / 100%)</li>
+  <li>🎨 Clean UI with Tailwind CSS</li>
+</ul>
+
+---
+
+<h3>🎮 Gaming Analytics Dashboard</h3>
+
+<ul>
+  <li>📡 Real-time updates using Socket.IO</li>
+  <li>📊 Data visualization with Chart.js</li>
+  <li>🔐 JWT-secured admin panel</li>
+  <li>🚀 Deployed on Vercel + Render</li>
+</ul>
+
+---
+
+<h3>🤝 Real-Time Collaboration Board</h3>
+
+<ul>
+  <li>⚡ Multi-user live collaboration</li>
+  <li>🔐 Clerk authentication & role-based access</li>
+  <li>🧠 Scalable backend using Convex</li>
+  <li>🎨 Built with Next.js + Tailwind + shadcn/ui</li>
 </ul>
 
 ---
@@ -74,12 +101,12 @@
 
 ---
 
-<h2>🧩 What I'm Working On</h2>
+<h2>🧩 What I'm Currently Working On</h2>
 
 <ul>
-  <li>🚀 Deployment (AWS, CI/CD)</li>
-  <li>⚡ Advanced React UI + Animations</li>
-  <li>🧠 Scalable Backend Architecture</li>
+  <li>🚀 Production-level deployment (AWS, CI/CD)</li>
+  <li>⚡ Advanced React animations & UI systems</li>
+  <li>🧠 Backend scalability & architecture</li>
 </ul>
 
 ---
@@ -104,14 +131,16 @@ Learning > Knowing
 
 <h2>📫 Connect With Me</h2>
 
-<p>
-  💼 <a href="https://github.com/404Nix">GitHub Profile</a>
+<p align="center">
+  <a href="https://github.com/404Nix">GitHub</a> •
+  <a href="https://www.linkedin.com/in/nikhil-kanojia69/">LinkedIn</a> •
+  <a href="https://portfolio-react-jet-delta.vercel.app/">Portfolio</a>
 </p>
 
 ---
 
 <h2>⚡ Fun Fact</h2>
 
-<p>
-  I debug more than I code… and that’s where most of the learning happens 😄
+<p align="center">
+  I debug more than I code… and that's where real learning happens 😄
 </p>
