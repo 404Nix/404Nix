@@ -1,87 +1,117 @@
-# 🚀 Hey, I'm Nix (Nikhil)
+<h1 align="center">🚀 Hey, I'm Nix (Nikhil)</h1>
 
-💻 Full Stack Developer | MERN Stack Enthusiast  
-🔥 Building scalable apps & clean UI experiences  
-⚡ Focused on real-world projects & production-ready code  
-
----
-
-## 🧠 About Me
-
-- 👨‍💻 I work with **MERN Stack (MongoDB, Express, React, Node.js)**
-- 🛠️ Love building **full-stack apps with real backend logic**
-- 🎯 Currently improving **system design & deployment skills**
-- 🎨 Interested in **modern UI + smooth animations (React)**
-- ⚙️ Exploring **Linux, performance systems & dev environments**
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Building+Real-World+Projects;Always+Learning+Something+New" />
+</p>
 
 ---
 
-## 🚀 Tech Stack
+<h2>🧠 About Me</h2>
 
-### 💻 Frontend
-- React.js
-- JavaScript (ES6+)
-- HTML5
-- CSS3
-- Tailwind CSS
+<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### 🧠 Backend
-- Node.js
-- Express.js
-- REST APIs
-- Authentication (JWT, Cookies)
+<ul>
+  <li>👨‍💻 Full Stack Developer (MERN)</li>
+  <li>⚡ Building real-world scalable applications</li>
+  <li>🎯 Learning system design & deployment</li>
+  <li>🎨 Love modern UI + smooth animations</li>
+  <li>🐧 Exploring Linux & dev environments</li>
+</ul>
 
-### 🗄️ Database
-- MongoDB
-- Mongoose
-
-### ⚙️ Tools & Others
-- Git
-- GitHub
-- Postman
-- VS Code
-- VMware
-- Linux
+<br/><br/>
 
 ---
 
-## 📌 Featured Project
+<h2>🚀 Tech Stack</h2>
 
-### 💰 Expense Tracker App  
-🔗 https://github.com/404Nix/ExpenseTracker  
+<h3>💻 Frontend</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+</p>
 
-**Features:**
-- 📊 Track income & expenses with categories  
-- 🔐 Secure authentication system  
-- 📅 Date-based filtering & analytics  
-- ⚡ MongoDB aggregation for reports  
-- 🎨 Clean UI with responsive design  
+<h3>🧠 Backend</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
----
+<h3>🗄️ Database</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
 
-## 🧩 What I’m Working On
-
-- 🚀 Improving **production-level deployment (AWS, CI/CD, hosting)**
-- ⚡ Building **better UI with animations in React**
-- 🧠 Learning **real-world scalable app architecture**
-
----
-
-## 📈 Philosophy
-
-- Consistency > Motivation  
-- Clean Code > Quick Code  
-- Learning > Knowing
+<h3>⚙️ Tools</h3>
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+<h2>📌 Featured Project</h2>
 
-- 💼 GitHub: https://github.com/404Nix  
-- 📩 Open to collaboration & learning  
+<h3>💰 Expense Tracker App</h3>
+
+<p>
+  🔗 <a href="https://github.com/404Nix/ExpenseTracker">View Project</a>
+</p>
+
+<ul>
+  <li>📊 Track income & expenses</li>
+  <li>🔐 Secure authentication system</li>
+  <li>📅 Date-based filtering</li>
+  <li>⚡ MongoDB aggregation</li>
+  <li>🎨 Clean responsive UI</li>
+</ul>
 
 ---
 
-## ⚡ Fun Fact
+<h2>📈 GitHub Stats</h2>
 
-> I debug more than I code… and somehow that’s where most learning happens 😄
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=404Nix&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=404Nix&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<h2>🧩 What I'm Working On</h2>
+
+<ul>
+  <li>🚀 Deployment (AWS, CI/CD)</li>
+  <li>⚡ Advanced React UI + Animations</li>
+  <li>🧠 Scalable Backend Architecture</li>
+</ul>
+
+---
+
+<h2>📈 Philosophy</h2>
+
+<pre>
+Consistency > Motivation
+Clean Code > Quick Code
+Learning > Knowing
+</pre>
+
+---
+
+<h2>🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+<h2>📫 Connect With Me</h2>
+
+<p>
+  💼 <a href="https://github.com/404Nix">GitHub Profile</a>
+</p>
+
+---
+
+<h2>⚡ Fun Fact</h2>
+
+<p>
+  I debug more than I code… and that’s where most of the learning happens 😄
+</p>
