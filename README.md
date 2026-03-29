@@ -68,9 +68,10 @@
 ---
 
 ## 📈 Philosophy
-Consistency > Motivation
-Clean Code > Quick Code
-Learning > Knowing
+
+- Consistency > Motivation  
+- Clean Code > Quick Code  
+- Learning > Knowing
 
 ---
 
