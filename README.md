@@ -94,7 +94,6 @@
 <h2>📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=404Nix&show_icons=true&theme=tokyonight&hide_border=true" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=404Nix&theme=tokyonight&hide_border=true" />
 </p>
