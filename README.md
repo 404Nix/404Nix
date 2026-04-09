@@ -53,6 +53,16 @@
 
 <h2>📌 Featured Projects</h2>
 
+<h3>🔐 Vault404 — Secure Password Manager</h3>
+<ul>
+  <li>🛡️ AES encryption with JWT-based authentication and session persistence</li>
+  <li>🐳 Containerized architecture using Docker multi-stage builds and Docker Compose</li>
+  <li>☁️ Deployed to Azure Container Apps with custom DNS and ingress management</li>
+  <li>🌐 Live at <a href="https://vault404.app">vault404.app</a></li>
+</ul>
+
+---
+
 <h3>💰 Expense Tracker</h3>
 
 <p>
