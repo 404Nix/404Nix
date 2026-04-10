@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-FullStack-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-FullStack-blue?style=for-the-badge"/> 
   <img src="https://img.shields.io/badge/Stack-MERN-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Learning-System%20Design-orange?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Status-Building%20Projects-success?style=for-the-badge"/>
