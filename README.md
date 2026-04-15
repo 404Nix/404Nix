@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN);Building+Scalable+Real-World+Apps;React+%2B+Node+%2B+MongoDB;System+Design+%7C+Deployment+Learner" />
 </p>
 
-<p align="center"> 
+<p align="center">
   <img src="https://img.shields.io/badge/Focus-FullStack-blue?style=for-the-badge"/> 
   <img src="https://img.shields.io/badge/Stack-MERN-green?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Learning-System%20Design-orange?style=for-the-badge"/>
