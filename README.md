@@ -1,6 +1,6 @@
 <h1 align="center">🚀 Nikhil Kanojia (Nix)</h1>
 
-<p align="center"> 
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN);Building+Scalable+Real-World+Apps;React+%2B+Node+%2B+MongoDB;System+Design+%7C+Deployment+Learner" />
 </p>
 
